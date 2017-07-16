@@ -11,5 +11,5 @@ Este proyecto se adhiere al [código de conducta de código abierto][code-of-con
 4. Push to the branch (`git push origin mis_verbos`)
 5. Open a [Pull Request][1]
 
-[1]: http://github.com/github/markup/pulls
+[1]: http://github.com/asosab/esp_verbos/pulls
 [code-of-conduct]: http://todogroup.org/opencodeofconduct/#GitHub%20Markup/opensource@github.com
