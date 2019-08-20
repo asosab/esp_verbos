@@ -3,7 +3,7 @@
 
 Para armar esta base de datos de conjugaciones de verbos partí de varias listas de verbos en Internet como [helloworld.com.es](http://www.helloworld.com.es/english/quick%20reference/verbs/SpanishVerbList.htm), la mayor tomada del proyecto SpanishJS de @damiancipolat con más de 15 mil palabras, luego probé cada palabra contra sitios como [spanishdict](http://www.spanishdict.com/)  de donde tomé las conjugaciones haciendo webscraping
 
-Hecha un ojo a la [guía para contribuir](CONTRIBUTING.md) antes de reportar algún error.
+Echa un ojo a la [guía para contribuir](CONTRIBUTING.md) antes de reportar algún error.
 
 LICENCIA
 ------------
